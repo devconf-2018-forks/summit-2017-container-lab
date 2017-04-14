@@ -279,6 +279,8 @@ let them more dynamically find each other.
 ```bash
 oc delete pod mariadb
 oc delete pod wordpress
+
+oc get pods
 ```
 
 **Note** you used the "singular" form here on the ```kind```, which, for 
