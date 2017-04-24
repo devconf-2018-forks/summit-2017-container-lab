@@ -244,8 +244,8 @@ something like ```create```, ```get```, ```remove```, etc. and ```kind```
 is the ```kind``` from the pod files.
 
 ```bash
-oc create -f ~/workspace/mariadb/openshift/mariadb-pod.yaml
-oc create -f ~/workspace/wordpress/openshift/wordpress-pod.yaml
+oc create -f ~/summit-2017-container-lab/workspace/mariadb/openshift/mariadb-pod.yaml
+oc create -f ~/summit-2017-container-lab/workspace/wordpress/openshift/wordpress-pod.yaml
 ```
 
 Now, I know i just said, ```kind``` is a parameter, but, as this is a create 
