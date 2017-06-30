@@ -22,7 +22,7 @@ REGION=us-west-1
 AZ_1=us-west-1a
 
 # Security Groups
-LOFT_SEC_GROUP=scollier-testing-sg
+LOFT_SEC_GROUP=aws-devops-loft
 
 # Tags
 KEY_TAG=${UNIQ_VAR}-role
