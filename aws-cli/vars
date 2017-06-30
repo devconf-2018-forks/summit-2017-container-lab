@@ -8,7 +8,7 @@ NODE_COUNT=`seq 1 4`
 IG_TAG=${UNIQ_VAR}-IG
 
 # AMI Id
-AMI_ID=ami-35deec23
+AMI_ID=ami-60b88a76
 
 # Instance types
 LOFT_INST_TYPE=t2.xlarge
